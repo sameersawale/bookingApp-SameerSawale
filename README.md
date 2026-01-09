@@ -7,7 +7,7 @@ All the exceptions are handled and given correct error code and error message on
 In this application I use docker which is easily start up and MySQL for database.
 
 
-Below are the APIs list with all assumptions with sample curl and postman screenshots.
+Below are the APIs list with all assumptions with sample curl and postman screenshots(find in screenshots folder).
 Just copy paste below CURLs to your postman.
 
 1. VENUES- add venues
